@@ -1,4 +1,3 @@
-
 ![Lifecycle:Maturing](https://img.shields.io/badge/Lifecycle-Maturing-007EC6)
 [![Native Build & Test](https://github.com/bcgov/bc-wallet-mobile/actions/workflows/main.yaml/badge.svg?branch=main)](https://github.com/bcgov/bc-wallet-mobile/actions/workflows/main.yaml)
 
@@ -22,5 +21,3 @@ somewhere on the internet.)
 How BC Wallet Mobile App fits in a larger picture?
 
 ![](<./docs/BCWallet_Architecture.png>)
-
-

@@ -4,7 +4,7 @@
 - [Prerequisite services](#prerequisite-services)
 - [Cloning and initializing submodule](#cloning-and-initializing-submodule)
 - [React Native setup](#react-native-setup)
-- [Installing npm modules](#installing-npm-modules)
+- [Installing npm modules and pods](#installing-npm-modules-and-pods)
 - [Configuration](#configuration)
 - [Running in an Android emulator](#running-in-an-android-emulator)
 - [Troubleshooting and debugging](#troubleshooting-and-debugging)
