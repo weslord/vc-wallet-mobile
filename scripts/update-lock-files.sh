@@ -8,4 +8,4 @@ yarn install
 ( cd app/android; ./gradlew app:dependencies --write-locks )
 
 git add .
-git commit -sm "chore:update lock files" --no-verify
+git commit -sm "chore: update lock files" --no-verify
